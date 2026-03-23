@@ -21,3 +21,4 @@ cout<< "El promedio es: " << promedio << endl;
 
 /*Este codigo es de complejidad constante, ya que el numero de operaciones no depende de la cantidad de numeros ingresados, 
 siempre se realizan las mismas operaciones para calcular el promedio de tres numeros.*/
+
